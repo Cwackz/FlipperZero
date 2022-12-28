@@ -1,6 +1,9 @@
-### Flipper Shipping Status
-![img_1](https://user-images.githubusercontent.com/72893853/207628449-376af7cf-57a4-4434-a631-e798fa5c4b5e.png) 
-## __In Transit__ 
+### My Adjustments for the flipper Zero 
 
-# expected date: 15.12.2022
-## Delivery Status : isnt here
+
+
+Firmwares used sorted by best ones in my opinion
+1. Flipper-Xtreme - RM but better, stable version with less crashes too much nsfw tho
+2. RM (Rogue Master) - A bit unstable but my prefered firmware
+3. Unleashed - Stable firmware but i prefer rogue master
+4. Custom Firmware i made - Kept boot looping so i had to reset flipper 😭
