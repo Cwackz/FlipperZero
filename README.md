@@ -1,6 +1,6 @@
 ### This Repo is for scripts ive made/edited that you would be able to use with your flipper!
 
-# Checkout[Immortal Flipper](https://github.com/Cwackz/Immortal-Flipper) if you want to get everything compiled into one software :) 
+# Checkout [Immortal Flipper](https://github.com/Cwackz/Immortal-Flipper) if you want to get everything compiled into one software :) 
 
 Firmwares used sorted by best ones in my opinion
 1. [RM](https://github.com/RogueMaster/flipperzero-firmware-wPlugins) (Rogue Master) - A bit unstable but my prefered firmware 
